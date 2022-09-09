@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@1&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+.nav-item {
+     font-size: 20px;
+        color: #ffc107;
+}
+
+.copy {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+   } 
+
+   body {
+    background-image: url("./assets/Bu2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+ 
+h1 {
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+
+.carta{
+    color: white;
+    font-size: 20px;
+    padding: 0%;
+    list-style-type: none;
+    text-shadow: 2px 2px black;
+}
